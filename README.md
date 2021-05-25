@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-﻿# 本文禁止转载!
-=======
->>>>>>> 1b14b8efea194ddc256d2783b39ce2f7277ec4a2
+# 本文禁止转载!
+
+
 本文地址：[https://blog.csdn.net/weixin_44936889/article/details/112002152](https://blog.csdn.net/weixin_44936889/article/details/112002152)
 
 # 项目简介：
@@ -9,7 +8,7 @@
 
 代码地址（欢迎star）：
 
-[https://github.com/Sharpiless/Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+[https://github.com/Sharpiless/yolov5-deepsort/](https://github.com/Sharpiless/yolov5-deepsort/)
 
 最终效果：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201231090541223.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
@@ -129,5 +128,5 @@ result = det.feedCap(im, func_status)
 返回的 result 是字典，result['frame'] 返回可视化后的图像
 
 # 联系作者：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201120115403928.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70#pic_center)
+微信：Sharpiless
 
