@@ -125,5 +125,15 @@ result = det.feedCap(im)
 返回的 result 是字典，result['frame'] 返回可视化后的图像
 
 # 联系作者：
-微信：Sharpiless
+
+> B站：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
+
+> CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
+
+> AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
+
+> Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
+
+遵循 GNU General Public License v3.0 协议，标明目标检测部分来源：https://github.com/ultralytics/yolov5/
+
 
