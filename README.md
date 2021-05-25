@@ -117,10 +117,7 @@ det = Detector()
 ## 调用检测接口：
 
 ```python
-func_status = {}
-func_status['headpose'] = None
-
-result = det.feedCap(im, func_status)
+result = det.feedCap(im)
 ```
 
 其中 im 为 BGR 图像
